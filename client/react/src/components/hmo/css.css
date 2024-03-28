@@ -1,0 +1,19 @@
+.details{
+    margin-right: 35vw;
+    margin-left: 35vw;
+    direction: ltr;
+    display: grid;
+    grid-template-columns: 1fr 1fr  ;
+}
+
+.dialog{
+    text-align: center;
+}
+
+.cdetails{
+    margin-right: 20vw;
+    margin-left: 20vw;
+    direction: ltr;
+    display: grid;
+    grid-template-columns: 1fr 1fr   ;
+}
